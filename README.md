@@ -30,4 +30,4 @@ Color is defined at `src/style/_variables.scss` .
 
 ## Mock up
 
-![Mock up](mockup/entrance-quiz-mockup.png)
+![Mock up](mockup/mockup.png)
