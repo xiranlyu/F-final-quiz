@@ -18,3 +18,6 @@ class App extends Component {
 }
 
 export default App;
+// TODO GTB-工程实践: - 没有按照tasking提交
+// TODO GTB-知识点: + 第一层组件划分合理
+// TODO GTB-综合: - 代码太少无法看出各个维度的问题
